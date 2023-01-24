@@ -11,7 +11,7 @@ export default function Navbar(props) {
         <div className="toggler--slider--circle"></div>
 
       </div>
-      <p className="toggler--dark"></p>
+      <p className="toggler--dark">Dark</p>
     </div>
    </nav>
   )
